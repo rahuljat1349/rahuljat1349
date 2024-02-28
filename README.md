@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **ReactJs, NodeJs, ExpressJs, MongoDB**
 
-- ⚡ Fun fact **I Love Philosophy**
+- ⚡ Fun fact :- **I Love Philosophy**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
