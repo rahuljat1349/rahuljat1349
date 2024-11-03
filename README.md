@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **kubernetes**
 
-- 👨‍💻 All of my projects are available at [https://rahuldudi.vercel.dev](https://rahuldudi.vercel.app)
+- 👨‍💻 All of my projects are available at [https://rahuldudi.vercel.app](https://rahuldudi.vercel.app)
 
 - 💬 Ask me about **ReactJs, NextJs, NodeJs**
 
