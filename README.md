@@ -4,7 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahuljat1349&label=Profile%20views&color=0e75b6&style=flat" alt="rahuljat1349" /> </p>
 
-<p align="left"> <a href="https://twitter.com/rahuljat1349" target="blank"><img src="https://img.shields.io/twitter/follow/rahuljat1349?logo=twitter&style=for-the-badge" alt="rahuljat1349" /></a> </p>
 
 - 🔭 I’m currently working on **HopIn (an event management app)**
 
@@ -31,4 +30,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rahuljat1349&show_icons=true&locale=en" alt="rahuljat1349" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahuljat1349&" alt="rahuljat1349" /></p>
