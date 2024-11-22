@@ -5,9 +5,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahuljat1349&label=Profile%20views&color=0e75b6&style=flat" alt="rahuljat1349" /> </p>
 
 
-- 🔭 I’m currently working on **HopIn (an event management app)**
+- 🔭 I’m currently working on **HostIn (an event management app)**
 
-- 🌱 I’m currently learning **kubernetes**
+- 🌱 I’m currently learning **React Native**
 
 - 👨‍💻 All of my projects are available at [https://rahuldudi.vercel.app](https://rahuldudi.vercel.app)
 
