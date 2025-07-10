@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 👨‍💻 All of my projects are available at [https://rahuldudi.vercel.app](https://rahuldudi.vercel.app)
+- 👨‍💻 All of my projects are available at [https://rahuldudi.vercel.app](https://rahuldudi.dev)
 
 - 💬 Ask me about **ReactJs, NextJs, NodeJs**
 
