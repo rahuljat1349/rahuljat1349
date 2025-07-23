@@ -3,7 +3,7 @@
 📍 *Full-Stack Developer | AI-Powered Applications*  
 📞 +91-8233841349  
 📧 [connect.rahuldudi@gmail.com](mailto:connect.rahuldudi@gmail.com)  
-🔗 [Portfolio](#) • [GitHub](#) • [LinkedIn](#)
+🔗 [Portfolio](https://rahuldudi.dev) • [LinkedIn](https://www.linkedin.com/in/rahuldudi)
 
 ---
 
