@@ -57,7 +57,7 @@ I'm a full-stack developer specializing in building **AI-powered applications** 
 
 ## 📍 Location
 
-**Ganesh Vihar, Bindayaka, Jaipur, Rajasthan – 302012, India**
+**Jaipur, Rajasthan, India**
 
 ---
 
